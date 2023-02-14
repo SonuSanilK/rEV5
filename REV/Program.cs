@@ -5,4 +5,4 @@ for (int i = name.Length - 1; i >= 0; i--)
 {
     rev += name[i];
 }
-Console.WriteLine($"Reverse is {rev}");//commityhteysdfgh
+Console.WriteLine($"Reverse is {rev}");
